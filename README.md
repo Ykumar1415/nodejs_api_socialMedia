@@ -7,6 +7,12 @@
 ```bash
 npm install
 ```
+## add env
+
+```bash
+Add .env file for database 
+```
+
 
 ## Run App
 
